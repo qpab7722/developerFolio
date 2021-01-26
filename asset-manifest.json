@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.d75a6cb4.chunk.css",
+    "main.js": "/developerFolio/static/js/main.4c763b6b.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.4c763b6b.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.cbe3fd2a.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.cbe3fd2a.js.map",
+    "static/js/2.10553b47.chunk.js": "/developerFolio/static/js/2.10553b47.chunk.js",
+    "static/js/2.10553b47.chunk.js.map": "/developerFolio/static/js/2.10553b47.chunk.js.map",
+    "static/css/3.3a26ebde.chunk.css": "/developerFolio/static/css/3.3a26ebde.chunk.css",
+    "static/js/3.2a082d9b.chunk.js": "/developerFolio/static/js/3.2a082d9b.chunk.js",
+    "static/js/3.2a082d9b.chunk.js.map": "/developerFolio/static/js/3.2a082d9b.chunk.js.map",
+    "static/css/4.21259c32.chunk.css": "/developerFolio/static/css/4.21259c32.chunk.css",
+    "static/js/4.0ec8e3d7.chunk.js": "/developerFolio/static/js/4.0ec8e3d7.chunk.js",
+    "static/js/4.0ec8e3d7.chunk.js.map": "/developerFolio/static/js/4.0ec8e3d7.chunk.js.map",
+    "index.html": "/developerFolio/index.html",
+    "precache-manifest.6cf830bbd56a531a54484c4e89133756.js": "/developerFolio/precache-manifest.6cf830bbd56a531a54484c4e89133756.js",
+    "service-worker.js": "/developerFolio/service-worker.js",
+    "static/css/3.3a26ebde.chunk.css.map": "/developerFolio/static/css/3.3a26ebde.chunk.css.map",
+    "static/css/4.21259c32.chunk.css.map": "/developerFolio/static/css/4.21259c32.chunk.css.map",
+    "static/css/main.d75a6cb4.chunk.css.map": "/developerFolio/static/css/main.d75a6cb4.chunk.css.map",
+    "static/js/2.10553b47.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.10553b47.chunk.js.LICENSE.txt",
+    "static/media/911.PNG": "/developerFolio/static/media/911.edf6632c.PNG",
+    "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/hack.JPG": "/developerFolio/static/media/hack.c2d65730.JPG",
+    "static/media/heart.PNG": "/developerFolio/static/media/heart.c1c59da5.PNG",
+    "static/media/kcgs.PNG": "/developerFolio/static/media/kcgs.6f5c5053.PNG",
+    "static/media/pacman.gif": "/developerFolio/static/media/pacman.3c5151c1.gif",
+    "static/media/sejong.PNG": "/developerFolio/static/media/sejong.54a55c50.PNG",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
+    "static/media/sw4.JPG": "/developerFolio/static/media/sw4.f090cb58.JPG",
+    "static/media/swlockermanager.PNG": "/developerFolio/static/media/swlockermanager.e3c6fbf7.PNG",
+    "static/media/TalkCard.css": "/developerFolio/static/media/talksCardBack.39eff4a9.svg",
+    "static/media/yeji.PNG": "/developerFolio/static/media/yeji.0b117a5c.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbe3fd2a.js",
+    "static/js/2.10553b47.chunk.js",
+    "static/css/main.d75a6cb4.chunk.css",
+    "static/js/main.4c763b6b.chunk.js"
+  ]
+}
